@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Wellness Bot</title>
+      <link rel="shortcut icon" href="images/favicon.png" />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat" />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Slab" />
+      <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+      <link rel="stylesheet" href="styles.css" />
+   </head>
+   <body>
+      <!--Introductory section. Includes logo + short blurb on the bot-->
+      <div class="sect1">
+         <!--Logo image-->
+         <div class="logo" data-aos="zoom-in">
+            <img src="images/logo.png" alt="Bot Logo" style="width:600px">
+         </div>
+         <h1>Working Hard to Keep You and Your Server Safe</h1>
+         <p>An A.I.-powered Discord bot that monitors messages for at-risk content and anonymously connects people who need a healthy outlet for their thoughts.</p>
+      </div>
+      <!--About the bot section. Also includes download button-->
+      <div class="sect2" data-aos="fade-right" data-aos-offset="250">
+         <h2>What is Wellness Bot?</h2>
+         <!--Download button. Links to the repository on github-->
+         <a href="https://discord.com/api/oauth2/authorize?client_id=868187560940281896&permissions=346112&scope=bot" target="_blank">
+            <div class="download" data-aos="fade-up">
+               <img src="images/discord.png" style="float:right;width:100px;padding:25px 0px">
+               <p>INVITE TO YOUR SERVER</p>
+            </div>
+         </a>
+         <!--Detailed description of the Bot-->
+         <p>The Wellness Bot was created with one thing in mind: <b>Keeping the people in your server safe</b>. 
+            Wellness Bot uses machine learning and artificial intelligence to scan through messages sent through your server and determine whether or not the content being sent is potentially harmful to the user.
+            This includes mentions of depression, self-harm, and suicidal ideation.
+            Wellness Bot's main goal is intervention and stepping in to help users who may be at risk.
+         </p>
+         <p>
+            The Wellness Bot also includes features that allow users to anonymously connect with others, giving them a safe, confidential place to talk to another person and cope healthily.
+         </p>
+      </div>
+      <!--Section for Bot features-->
+      <div class="sect3" data-aos="fade-right">
+         <h2>Wellness Bot Features</h2>
+         <!--Feature 1-->
+         <div class="feature" data-aos="fade-right">
+            <img src="images/monitor.png" alt="Message Monitoring" style="float:left;width:125px;height:auto">
+            <h3>Message Monitoring</h3>
+            <p style="width:80%">Wellness Bot scans through every message sent in a server and checks for potentially harmful content.</p>
+         </div>
+         <!--Feature 2-->
+         <div class="feature" data-aos="fade-right">
+            <img src="images/communicate.png" alt="Chat with Others" style="float:left;width:125px;height:auto">
+            <h3>Chat with others</h3>
+            <p style="width:80%">Through Wellness Bot, you can anonymously speak with other users, giving you a completely confidential platform to express your thoughts.</p>
+         </div>
+         <!--Feature 3-->
+         <div class="feature" data-aos="fade-right">
+            <img src="images/mentor.png" alt="Become a Mentor" style="float:left;width:125px;height:auto">
+            <h3>Become a Mentor</h3>
+            <p style="width:80%">Through Wellness Bot, you can sign up to be an anonymous mentor and help people through tough times, completely on your own terms.</p>
+         </div>
+         <!--Feature 4-->
+         <div class="feature" data-aos="fade-right">
+            <img src="images/feedback.png" alt="Feedback" style="float:left;width:125px;height:auto">
+            <h3>Give Feedback</h3>
+            <p style="width:80%">Through Wellness Bot, you can give us your feedback. Wellness Bot is always seeking to improve, and we want to hear from you!</p>
+         </div>
+      </div>
+      <!--Testimonial section-->
+      <div class="sect4" data-aos="fade-right">
+         <h2>Feedback from our users</h2>
+         <img src="images/anon.png" alt="Anonymous testimony" style="float:left;width:125px;height:auto">
+         <p id="feedback"></p>
+      </div>
+      <script>
+         fetch("https://explore-hacks.thesilican.com/api/feedback/random")
+           .then(x => x.json())
+           .then(x => {
+             const feedbackText = document.getElementById("feedback");
+             feedbackText.innerText = x.message;
+           });
+      </script>
+      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+      <script>
+         AOS.init();
+      </script>
+   </body>
+</html>

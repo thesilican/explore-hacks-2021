@@ -1,0 +1,7 @@
+.git
+discord-bot/
+machine-learning/
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/auth/

@@ -1,0 +1,82 @@
+/*Styling for the bot logo*/
+.logo {
+    padding-bottom: 10px;
+    width: 30%;
+    margin-left: -100px;
+}
+
+/*First section with helping hand img + short description of the bot*/
+.sect1 {
+    font-family: "Roboto Slab";
+    padding: 80px 150px;
+    color: #f6f7f1;
+    background-image: url("images/helpingHand.png"), linear-gradient(90deg, #112d32 5%, rgba(37,78,88,1) 100%);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size:contain;
+  }
+
+/*About section for the bot*/
+.sect2 {
+    padding: 50px 150px;
+    color: #112d32;
+    background-color:#f6f7f1;
+    height: auto;
+  }
+
+/*Download button for the bot, links to the repo*/
+.download {
+    background-color: #db9487;
+    color:#f6f7f1;
+    width: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+    float: right;
+}
+.download:hover {
+    background-color: #e5926c;
+    text-decoration: none;
+}
+
+/*Bot features section*/
+.sect3 {
+    background-color:#254e58;
+    color:#f6f7f1;
+    height: auto;
+    padding: 50px 300px 50px 150px;
+}
+
+.feature {
+    color: #f6f7f1;
+    font-family: "Roboto Slab";
+    height:125px;
+}
+
+.sect4 {
+    padding: 50px 150px;
+    color: #112d32;
+    background-color:#f6f7f1;
+    height: 200px;
+}
+
+body {
+    background-color: #f6f7f1;
+    min-width: 600px;
+}
+
+h1, h2 {
+    font-family: "Montserrat";
+    width: 45%;
+}
+
+p, h3 {
+    font-family: "Roboto Slab";
+    margin-left: 20px;
+    width: 45%;
+}
+
+img {
+  padding-right: 25px;
+}

@@ -1,0 +1,537 @@
+The commit history of the original repository has been nuked
+because it was using up a lot of my GitHub LFS storage
+
+I have since gitignored a lot of large files in the machine-learning/ directory
+
+Here is a log of the original git commit history
+---------------------------------------------------------------------
+commit dc2c1a4cbeabc3d13dd523372c21ebaeea19cd19
+Author: Joshua HG <79605383+jahg901@users.noreply.github.com>
+Date:   Fri Jan 14 23:35:25 2022 -0500
+
+    Change README header
+
+commit d279746aa0a991e8192cfa6442dd1aff5cf15ead
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sun Jul 25 13:34:18 2021 -0400
+
+    Update README.md
+
+commit 134b8346415724d33331b3be2dba1b18c4fb9c8c
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sun Jul 25 08:50:30 2021 -0400
+
+    Add files via upload
+
+commit 866ee97086811a2de2b588daa6f01b3a0ca95c3d
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sun Jul 25 08:38:35 2021 -0400
+
+    Fix styles.css
+
+commit 083eaaf47d8e30fc6f753908919ddab01b821278
+Merge: 8ee20d3 7ce2053
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sun Jul 25 08:36:18 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021
+
+commit 8ee20d378feb06a55552693a484240acabb484a9
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sun Jul 25 08:36:15 2021 -0400
+
+    Add favicon
+
+commit 7ce20539f144d8ab30a4ebde2c03ae9897282721
+Merge: 405ca6c e944103
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sun Jul 25 05:16:57 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021 into main
+
+commit 405ca6cb57fb1639279c136a3ddcc401efe381d8
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sun Jul 25 05:16:47 2021 -0400
+
+    added server invite and comments
+
+commit e9441033a3f8524790ea738181ad2c925f6bd074
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sun Jul 25 00:46:19 2021 -0400
+
+    Fix spelling
+
+commit bcba51b1b00aed4135c9dd5842417c798d673741
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sun Jul 25 00:32:35 2021 -0400
+
+    Update styles.css
+
+commit 47ff08d8ba5ab7a5ef008bfb8e7e6c71978a2af2
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sun Jul 25 00:32:05 2021 -0400
+
+    Add discord icon to invite button
+
+commit 4801317a4ddacf721150f10c78bb68b13d6aaccb
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sun Jul 25 00:06:26 2021 -0400
+
+    Fix bot link
+
+commit 71de4cd812ef254df2468efc12afd7d8ced736e2
+Merge: 620baf2 8651af0
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sun Jul 25 00:02:59 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021 into main
+
+commit 620baf26bdd6cf20c5622811a3fbd9c82ede1d4f
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sun Jul 25 00:02:49 2021 -0400
+
+    space bar
+
+commit 8651af07e426568c59010eb6d899ce269dd6e620
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sun Jul 25 00:02:36 2021 -0400
+
+    Change link to add bot
+
+commit 9b21907eba7825cc9bcaf3550579cadf42296b1c
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 23:40:43 2021 -0400
+
+    pressed "format document"
+
+commit 1827f033c10d4b4405b1f9e727d1752bc63667a0
+Merge: e0c95c3 65585fb
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 23:37:26 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021 into main
+
+commit e0c95c3990854ff767eee43cb81a2e1aad035076
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 23:37:12 2021 -0400
+
+    finished botting :)
+
+commit 65585fbdc12cdb09654bcea5d3c042a063bf92f3
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 23:27:32 2021 -0400
+
+    Update index.html
+
+commit 5a151371e7ae9ec33171e20488d527cb7c37e88c
+Merge: d0d74fc c1ef25e
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 23:04:05 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021
+
+commit d0d74fce1e65b7c0e2ee451fff43b2a2f0fe7b5e
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 23:04:02 2021 -0400
+
+    Format and comment backend code
+
+commit c1ef25efdf99c6ba9cbbae8cfc9a915430e041fc
+Merge: 89ffdc9 bfedd98
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Sat Jul 24 23:01:22 2021 -0400
+
+    Merge branch 'main' of https://github.com/thesilican/explore-hacks-2021
+
+commit 89ffdc9d6138492192d36e9d8b7c36cf01ccfb26
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Sat Jul 24 23:01:18 2021 -0400
+
+    commented and cleaned repo
+
+commit bfedd980990f095bbb9750319dc6895ccbc602d8
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 22:58:15 2021 -0400
+
+    Reformat and fix testimonial
+
+commit 1f408a72b82b32603931ce66e0a03e6b06dc0480
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 22:48:13 2021 -0400
+
+    Update and rename classes.css to styles.css
+
+commit 7e2f63b360ccc3fdcffeb8ad211db6b3821c4101
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 22:46:57 2021 -0400
+
+    Update index.html
+
+commit c59e6e0e2a9e0b48116d3d24d0507768ab300f37
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 22:45:12 2021 -0400
+
+    Add testimonial
+
+commit 84cfc80726e50ea2eb464dd5958cda01f8851dbc
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 23:42:22 2021 +0000
+
+    Docker stuff
+
+commit 5413a908ac748039445090d256da29162ef60021
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 19:29:36 2021 -0400
+
+    Fix index.html not being loaded
+
+commit b1670ef2d73c422451802fa00945eeb338bd4f99
+Merge: 5f969b8 0f1df90
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 18:46:04 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021 into main
+
+commit 0f1df90d9146ac34ee01fb86bd37b6949f1f8097
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 22:45:46 2021 +0000
+
+    oops
+
+commit 5efc3712bac94814709b2a4867ce4d1d2225f6a6
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 18:39:43 2021 -0400
+
+    Rename webLayout.html to index.html
+
+commit 23f37bc09c807f9b76f7910a8b964fce28c737ec
+Merge: aaa9c0f dfd422f
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 18:38:33 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021
+
+commit aaa9c0fe73a148be0e6ae8597ccf24254114f708
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 18:38:31 2021 -0400
+
+    Website support for backend
+
+commit dfd422f70f1ddf22c6338401f958869678f35bd3
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Sat Jul 24 18:37:37 2021 -0400
+
+    moved model to app.py
+
+commit 5f969b8e99f922e348bc134b284376abf5abfb4a
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 18:35:59 2021 -0400
+
+    added wellness message, other fixes
+
+commit 39e1c6c80c879235f6b07267a85b70af4c257f12
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Sat Jul 24 18:29:23 2021 -0400
+
+    added model to server
+
+commit 9bf58f383e24e0f451dd9e43224445be02694f4b
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 17:14:15 2021 -0400
+
+    typo
+
+commit 7729d3679aa5204b6352cafcbbd04af0121d75d3
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 17:07:51 2021 -0400
+
+    Janky ml fetch
+
+commit 7d00104c7fb09a7ad74a5253de0cf754d1897b70
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 20:59:19 2021 +0000
+
+    ML Flask server
+
+commit bd9c329bb732507283e844036e5e90c3c0621e6f
+Merge: f3edb03 0956979
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 16:54:30 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021 into main
+
+commit f3edb031536f4129715cd3e2d6354dc533c1b43e
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 16:54:17 2021 -0400
+
+    fixed some stuff and added help
+
+commit 0956979639c9e66203e8492a3496df96cf7ada3d
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 15:32:42 2021 -0400
+
+    Add testimonial styling
+
+commit a64fee57382368122ddb9d4706eebe052a38c0df
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 15:31:12 2021 -0400
+
+    Add files via upload
+
+commit b7816b37c662cc75da91e2c1d5bf9c07ae4a68bc
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 15:30:52 2021 -0400
+
+    Add feedback section
+    
+    Note that this section is blank
+
+commit 44669223113a14aaef2b5ebc689274d6c2620f9b
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 15:25:27 2021 -0400
+
+    made mentor conversations work
+
+commit 068b3d59a2a1c79cb9201a4ca82d8b6c44a4363f
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 15:18:54 2021 -0400
+
+    Add new logo
+
+commit b23578f63432fd5510c8af5a2ae7367dd85f95a9
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 15:18:22 2021 -0400
+
+    Delete logo.png
+
+commit d7d81fe96acf2eafa5f2ffe805fad50598a46aae
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 14:36:12 2021 -0400
+
+    Add files via upload
+
+commit a92d57a33ca9e4b44a867bd749c34641da1e0ba8
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 14:35:45 2021 -0400
+
+    Add feedback feature
+
+commit e7d06196819ce9c541ee383e223bd40ec29e39fd
+Merge: fdf9cdc 67f33ce
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 13:47:10 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021
+
+commit fdf9cdc63570e6f66ead0573511ba1975233d1f1
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 13:47:07 2021 -0400
+
+    Finish conversation API
+
+commit 67f33ce9320e7dc1ecb97d218040dd6d20826caa
+Merge: df23f1a 8780097
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 13:36:04 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021 into main
+
+commit df23f1a5627ddfdab0fd71dfb1922da4965052b8
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Sat Jul 24 13:35:55 2021 -0400
+
+    made more commands
+
+commit 878009738a3fea8aff54d3fbab794c08bffe7f03
+Merge: 455bd90 14b6a97
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Sat Jul 24 13:06:35 2021 -0400
+
+    Merge branch 'main' of https://github.com/thesilican/explore-hacks-2021
+
+commit 455bd9072151c75f31f60f15e49ff9c34f513fde
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Sat Jul 24 13:06:32 2021 -0400
+
+    added json model
+
+commit 14b6a978fd21f336d54450beb9c19372d099cfc3
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 13:01:14 2021 -0400
+
+    Delete index.html
+
+commit 518487fb1044daa1c1c0c882e639eb35a539edb0
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 13:00:55 2021 -0400
+
+    Add CSS stylesheet
+    
+    Stylesheet for specific classes used in the weblayout
+
+commit b9dbac1eb61ed8a5505fbe16109ee6c278bafeb3
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 12:59:58 2021 -0400
+
+    Reformat weblayout
+    
+    Moved most styling features into a new CSS file for organization purposes
+
+commit 6caca9dab3529a4facf922b1eeb7f57dfe61d3c7
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 12:54:04 2021 -0400
+
+    Add new images
+
+commit 98970f4b0d67b711199ff63c7e445015d7964002
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Sat Jul 24 12:53:29 2021 -0400
+
+    Add bot features section
+
+commit 9f8bfd2c15d7b0129a1a429d8c6bffa93c6c76a2
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 00:37:18 2021 -0400
+
+    Ensure dnd is always forward date
+
+commit 6479b69e45abf939205d19a6545efdbb80370a6a
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 00:21:46 2021 -0400
+
+    Small update to do not disturb
+
+commit e194d028ea825cdc488c158cd0de62831a240d5d
+Merge: 1b27580 f943410
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 00:17:04 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021
+
+commit 1b27580697fb16a34bf05badc41aeabfdf1cd176
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 00:17:01 2021 -0400
+
+    Better express error handling
+
+commit b056ea13671f589d68fb36024c248449d30f9300
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Sat Jul 24 00:16:52 2021 -0400
+
+    Do not disturb api
+
+commit f943410eac3f422b77996b3a7c5db576dab0b5d7
+Merge: 77dc619 10140dc
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Fri Jul 23 23:38:05 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021 into main
+
+commit 77dc619c000f6caee237319469e36d6c47a2c324
+Author: Joshua HG <jahg901@gmail.com>
+Date:   Fri Jul 23 23:37:53 2021 -0400
+
+    added DND
+
+commit 10140dcc80dc7b770bf0f4da5dca28acaec92e08
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Fri Jul 23 22:57:16 2021 -0400
+
+    removed 0.08 from prediction (not necessary)
+
+commit 2e3ab5370bf0518261ad1f39fc7d765e1b57b71f
+Merge: 96f9da2 af052fc
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Fri Jul 23 22:54:15 2021 -0400
+
+    Merge branch 'main' of https://github.com/thesilican/explore-hacks-2021
+
+commit 96f9da25939eaa1f5442a6fefb28090a44b6d04f
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Fri Jul 23 22:54:10 2021 -0400
+
+    added 1000d model
+
+commit af052fcdce04800267d45f61bfaf33be68cec7bf
+Merge: 63e6e87 8175aba
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Fri Jul 23 22:49:12 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021
+
+commit 63e6e87a34176efbe092d868cfab731f83776554
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Fri Jul 23 22:49:09 2021 -0400
+
+    Add mentor api
+
+commit 8175abafdb4a77380ccd8ade1cd3f621172e3d7d
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Fri Jul 23 22:46:49 2021 -0400
+
+    Add images
+    
+    Not sure if this will work
+
+commit ca200f0f7f0b54a87530c22cc04d89f8c7d5bc13
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Fri Jul 23 22:46:12 2021 -0400
+
+    Create .gitkeep
+
+commit 4c3b0120239d7ed13e916d87509999712f347229
+Author: Jasmine-Mao <87322165+Jasmine-Mao@users.noreply.github.com>
+Date:   Fri Jul 23 22:44:45 2021 -0400
+
+    Initial weblayout
+    
+    Still missing quite a few sections. This is just the initial layout idea that's been done so far
+
+commit 64eb7c6191a68d5eaa36b6751353e152285f9b1e
+Author: Joshua HG <Joshua@MacBook-Pro.local>
+Date:   Fri Jul 23 22:24:47 2021 -0400
+
+    added some commands
+
+commit 80a2c0322cddef16a4820f754ce9f209e51d834e
+Merge: 83d4beb 6e09e61
+Author: Joshua HG <Joshua@MacBook-Pro.local>
+Date:   Fri Jul 23 20:29:27 2021 -0400
+
+    Merge branch 'main' of github.com:thesilican/explore-hacks-2021 into main
+
+commit 83d4beb9fa2f7c7a5dd26c3cfdc61a47ee63b1d0
+Author: Joshua HG <Joshua@MacBook-Pro.local>
+Date:   Fri Jul 23 20:28:32 2021 -0400
+
+    created command framework
+
+commit 6e09e612d230e23d474c91262da467d7868350cd
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Fri Jul 23 18:58:07 2021 -0400
+
+    ML first commit
+
+commit 485fe7c4dc22b212d687b31b363399db47747d09
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Fri Jul 23 12:37:46 2021 -0400
+
+    Add index.html
+
+commit a6b290f4f94f0ab5fbf35a3a751456b177acad4d
+Author: Tyler Kowalski <tkowalski9938@gmail.com>
+Date:   Fri Jul 23 12:28:35 2021 -0400
+
+    first
+
+commit 58485d5a21f89af092bffbf79c27ba5f7798fa57
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Fri Jul 23 12:21:23 2021 -0400
+
+    Initial Commit
+
+commit 95fbf9a8de68647405f35a935f565550d0c993a8
+Author: Bryan Chen <bryanchen74@gmail.com>
+Date:   Fri Jul 23 12:01:31 2021 -0400
+
+    Initial commit

@@ -1,0 +1,10 @@
+version: "3"
+services:
+  backend:
+    build: .
+    ports:
+      - 8080:8080
+    volumes:
+      - ./backend/auth/:/app/auth/
+    env_file:
+      - ./backend/.env
