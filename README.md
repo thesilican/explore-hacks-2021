@@ -8,4 +8,4 @@ Roles:
 - Bryan - `backend/` Express.js HTTP API server
 - Josh - `discord-bot/` Discord.js bot
 - Jasmine - `frontend/` Project homepage website
-- Tyler - `machine-learning/` Data collection and Tensorflow model
+- Tyler - `machine-learning/` Data collection, preprocessing, and Tensorflow model
